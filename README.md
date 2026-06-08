@@ -83,6 +83,7 @@
   <img src="https://raw.githubusercontent.com/shubendu7/shubendu7/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Shubendu's Contribution Snake Game" />
 </p>-->
 
+![snake gif](https://github.com/shubendu7/shubendu7/blob/output/github-snake-dark.svg)
 ---
 
 <p align="center">
