@@ -62,10 +62,10 @@
 
 ## 📊 GitHub Analytics
 
-### 🏆 Trophies
+<!--### 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shubendu7&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+</p>-->
 
 ### 📈 Core Stats
 <p align="center">
@@ -78,10 +78,10 @@
 
 ---
 
-### 🐍 Contribution Snake Game
+<!--### 🐍 Contribution Snake Game
 <p align="center">
   <img src="https://raw.githubusercontent.com/shubendu7/shubendu7/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Shubendu's Contribution Snake Game" />
-</p>
+</p>-->
 
 ---
 
